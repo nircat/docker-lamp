@@ -1,4 +1,5 @@
 <?php
+phpinfo();
 
 $mysqli = new mysqli('db', 'root', 'root', 'app');
 
